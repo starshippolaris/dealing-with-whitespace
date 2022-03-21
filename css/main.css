@@ -16,8 +16,8 @@ body {
 article {
   font-family: "Crimson Text", italic;
   color: #222;
-  margin-bottom: 2em;
-  border-bottom: .8px solid #999;
+  margin-bottom: 1.5em;
+  border-bottom: .75px solid #999;
 }
 
 article header {
