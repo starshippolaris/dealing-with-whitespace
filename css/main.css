@@ -36,10 +36,9 @@ article h1 {
 article header p {
   font-style: italic;
   padding-top: 0;
-  padding-bottom: .5em;
+  padding-bottom: 1em;
   border-bottom: .8px solid #999;
   margin-top: 0;
-  margin-bottom: 7rem;
 }
 
 blockquote {
