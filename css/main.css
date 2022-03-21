@@ -3,16 +3,16 @@ html {
   box-sizing: border-box;
 }
 
-article > h1 {
+article h1 {
   font-weight: normal;
 }
 
-article > header > p {
+article header p {
   font-style: italic;
   font-size: 1.125rem;
 }
 
-blockquote > .quote {
+blockquote .quote {
   font-size: 1em;
   color: #555;
 }
