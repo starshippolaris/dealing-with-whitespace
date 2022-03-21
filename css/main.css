@@ -1,10 +1,16 @@
+html {
+  line-height: inherit;
+}
+
 h1 {
   font-weight: normal;
 }
 
 header > p {
   font-style: italic;
+  font-size: 1.125rem;
 }
 .quote {
   font-size: 1em;
+  color: #999;
 }
