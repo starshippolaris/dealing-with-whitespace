@@ -39,6 +39,7 @@ article header p {
   padding-bottom: .5em;
   border-bottom: .8px solid #999;
   margin-top: 0;
+  margin-bottom: inherit;
 }
 
 blockquote {
