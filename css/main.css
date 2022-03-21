@@ -1,7 +1,9 @@
 html {
-  box-sizing: border-box;
-  line-height: .8em;
-  padding: .8em;
+box-sizing: border-box;
+border: 2px;
+padding-left: 1rem;
+padding-right: 1rem;
+margin: 1.5rem 13rem;
 }
 
 *, *::before, *::after {
