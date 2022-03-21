@@ -29,7 +29,7 @@ article h1 {
   font-style: normal;
   margin-bottom: 0;
   padding-bottom: 0;
-  line-height: .8;
+  border-bottom: 0;
 }
 
 article header p {
@@ -37,6 +37,7 @@ article header p {
   padding-top: 0;
   padding-bottom: .5em;
   border-bottom: .8px solid #999;
+  margin-top: 0;
 }
 
 blockquote {
