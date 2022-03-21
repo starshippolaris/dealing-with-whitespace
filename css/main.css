@@ -1,8 +1,9 @@
 html {
   line-height: inherit;
+  box-sizing: border-box;
 }
 
-h1 {
+article > h1 {
   font-weight: normal;
 }
 
@@ -11,7 +12,7 @@ article > header > p {
   font-size: 1.125rem;
 }
 
-blockquote {
+blockquote > .quote {
   font-size: 1em;
-  color: #999;
+  color: #555;
 }
