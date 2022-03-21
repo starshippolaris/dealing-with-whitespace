@@ -55,5 +55,6 @@ article p {
 }
 
 article ol {
-  margin-left: 0;
+  list-style-position: inside;
+  padding-left: 0;
 }
