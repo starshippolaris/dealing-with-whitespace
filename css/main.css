@@ -6,11 +6,12 @@ h1 {
   font-weight: normal;
 }
 
-header > p {
+article > header > p {
   font-style: italic;
   font-size: 1.125rem;
 }
-.quote {
+
+blockquote {
   font-size: 1em;
   color: #999;
 }
