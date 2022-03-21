@@ -16,6 +16,7 @@ body {
 article {
   font-family: "Crimson Text", italic;
   color: #222;
+  margin-bottom: 2em;
 }
 
 article header {
@@ -56,8 +57,4 @@ article p {
 article ol {
   list-style-position: inside;
   padding-left: 0;
-}
-
-article {
-  margin-bottom: 7em;
 }
