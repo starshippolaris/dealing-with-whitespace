@@ -57,3 +57,7 @@ article ol {
   list-style-position: inside;
   padding-left: 0;
 }
+
+article {
+  margin-bottom: 7em;
+}
