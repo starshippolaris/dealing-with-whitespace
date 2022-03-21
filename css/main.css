@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  padding: .75rem;
 }
 
 *, *::before, *::after {
@@ -16,7 +17,7 @@ body {
 article {
   font-family: "Crimson Text", italic;
   color: #222;
-  margin-bottom: 1.5em;
+  margin-bottom: .5em;
   border-bottom: .75px solid #999;
 }
 
