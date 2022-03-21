@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  padding: 0rem;
+  padding: inherit;
 }
 
 *, *::before, *::after {
