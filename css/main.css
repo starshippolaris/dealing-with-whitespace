@@ -1,3 +1,10 @@
+h1 {
+  font-weight: normal;
+}
+
+header > p {
+  font-style: italic;
+}
 .quote {
   font-size: 1em;
 }
