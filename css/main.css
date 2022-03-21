@@ -1,6 +1,5 @@
 html {
   box-sizing: border-box;
-  line-height: .75;
 }
 
 *, *::before, *::after {
@@ -51,7 +50,7 @@ blockquote {
 }
 
 article p {
-
+  color: inherit;
 }
 
 article ol {
